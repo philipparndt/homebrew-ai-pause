@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "ai-pause" do
-  version "0.1.1"
-  sha256 "79c326904727623c7e89159849aa121084e0173382a47fb3ff18c1d0ea32eaf0"
+  version "0.1.2"
+  sha256 "7623d5800afdc32f9b7b3ef8fbe1f1212f4f74274c43a9f6acbb1f9570725047"
 
   url "https://github.com/philipparndt/ai-pause/releases/download/v#{version}/AI-Pause-#{version}.zip"
   name "AI Pause"
